@@ -1,0 +1,12 @@
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csproj.AssemblyReference.cache
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csproj.GenerateResource.cache
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csproj.CoreCompileInputs.cache
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form2.resources
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\openCV.dll
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsF.988A1009.Up2Date
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+C:\Users\tabarak\Documents\Visual Studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
